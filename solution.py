@@ -12,7 +12,7 @@ def direction(facing, turn):
             t = 0
             while new_place >= t:
                 dicts = ["N", "NE", "E", "SE", "S", "SW", "W", "NW"]
-                for item in dicts[::1]:
+                for item in reversed(dicts):
                     a = [item]
                     t += 1
                     print(t)
