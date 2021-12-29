@@ -9,6 +9,10 @@ Examples
 "SE", -45  -->  "E"
 "W",  495  -->  "NE"
 
+https://www.codewars.com/kata/61a8c3a9e5a7b9004a48ccc2/train/python
+
+https://docs.google.com/forms/d/e/1FAIpQLSc1_lsjswOuZ0Q6t3d9_ijNYOzTvyHQ1u1rPuX0MV7mM_lC8w/viewform
+
 У вас есть компас с восьмью ветрами, вот такой:
 Вы получаете направление, в котором находитесь (одно из 8 направлений: N, NE, E, SE, S, SW, W, NW) и определенный угол
 поворота (кратный 45, от -1080 до 1080); положительный означает по часовой стрелке, а отрицательный - против часовой стрелки.
